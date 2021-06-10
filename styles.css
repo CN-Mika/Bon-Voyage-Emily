@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    font-family: Gill Sans;
+    text-align: center;
+
+}
+
+p{
+    color:white;
+}
+
+img {
+    height: 200px;
+
+}
+
+h2 {
+    color: white;
+    font-style: italic;
+}
+
+.NYtoLA {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    text-align: center;
+    margin: 20px;
+
+}
+
+.header {
+    background-color: #f4b55d;
+    padding: 0px;
+    text-align: center;
+    font-style: italic;
+    border: 5px double #bbcda7;
+}
+
+.header2{
+    font-style:italic;
+}
+
+.b1,
+.b2,
+.b3 {
+    background-color: black;
+    width: 50px;
+    height: 30px;
+}
+
+.content {
+    border: 3px solid blue;
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+#second,
+#third {
+    display: none;
+}
+
+button {
+    outline: none;
+    margin-bottom: 5px;
+}
